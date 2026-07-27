@@ -34,7 +34,7 @@ income, SNAP enrollment, and low access population counts.
 
 ![Census Tract Food Security Map](census-tract-map.png)
 
-**► [View Census Tract Map — Live Dashboard](https://public.tableau.com/views/FoodSecurityinSpartanburgCounty/Dashboard10)**
+**► [View Census Tract Map — Live Dashboard][(https://public.tableau.com/views/FoodSecurityinSpartanburgCounty/Dashboard10](https://public.tableau.com/app/profile/strategic.spartanburg/viz/FoodSecurityinSpartanburgCounty/Dashboard10))**
 
 **Featured by:** [Strategic Spartanburg](https://www.strategicspartanburg.org/foodsecuritydashboard)
 
