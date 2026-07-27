@@ -34,16 +34,25 @@ income, SNAP enrollment, and low access population counts.
 
 ![Census Tract Food Security Map](census-tract-map.png)
 
+**► [View Census Tract Map — Live Dashboard](https://public.tableau.com/views/FoodSecurityinSpartanburgCounty/Dashboard10)**
+
+**Featured by:** [Strategic Spartanburg](https://www.strategicspartanburg.org/foodsecuritydashboard)
+
 ---
 
 ### View 2 — Municipality Level: Comparative Bar Chart
 This view breaks food access indicators down by municipality across 
-Spartanburg County, allowing direct comparison between towns. The 
-interactive indicator selector filters the chart across multiple 
-variables. Hovering reveals impacted population counts, median family 
-income, and SNAP enrollment by municipality.
+Spartanburg County, allowing direct comparison between towns including 
+Campobello, Cowpens, Reidville, and Woodruff. The interactive indicator 
+selector filters the chart across multiple food security variables. 
+Hovering over each bar reveals the impacted population count, median 
+family income, and SNAP enrollment rate by municipality. Reidville 
+showed the highest rate of low access children at 26.99% while 
+Woodruff showed the lowest at 8.41%.
 
 ![Municipality Level Dashboard](municipality-dashboard.png)
+
+**► [View Municipality Dashboard — Live](https://www.strategicspartanburg.org/foodsecuritydashboard)**
 
 ---
 
@@ -51,9 +60,13 @@ income, and SNAP enrollment by municipality.
 The county level dashboard tracks ten food security indicators over 
 time using bar and line graphs — including food insecurity rate, child 
 food insecurity rate, ALICE households, adult obesity rate, meal cost, 
-and SNAP threshold comparisons. This view was designed to help 
-stakeholders identify whether conditions are improving or worsening 
-across Spartanburg County year over year.
+and SNAP threshold comparisons. Population grew from roughly 260,000 
+in 2014 to over 320,000 by 2020 while food insecurity rates trended 
+downward, though meal costs rose from $2.74 in 2015 to $3.41 by 2021. 
+This view was designed to help stakeholders identify whether conditions 
+are improving or worsening across Spartanburg County year over year.
+
+**► [View County Level Dashboard — Live](https://www.strategicspartanburg.org/foodsecuritydashboard)**
 
 ![County Level Longitudinal Dashboard](county-dashboard.png)
 
