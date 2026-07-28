@@ -95,7 +95,7 @@ and wealth-building opportunities. Together these indicators reveal
 whether residents can access the kind of work that builds lasting 
 economic stability rather than just short-term income.
 
-[![Pillar 1 - Rewarding Work](pillar-1-rewarding-work.png)](https://www.strategicspartanburg.org)
+[![Pillar 1 - Rewarding Work](pillar-1-rewarding-work.png)](https://www.strategicspartanburg.org/upwardmobilitydashboard)
 
 *Click image to view live dashboard*
 
@@ -113,7 +113,7 @@ access. Education indicators in Spartanburg County were analyzed
 through an equity lens to identify which communities face the steepest 
 barriers to educational opportunity.
 
-[![Pillar 2 - High-Quality Education](pillar-2-education.png)](https://www.strategicspartanburg.org)
+[![Pillar 2 - High-Quality Education](pillar-2-education.png)](https://www.strategicspartanburg.org/upwardmobilitydashboard)
 
 *Click image to view live dashboard*
 
@@ -131,7 +131,7 @@ diversity, social capital, and transportation access. These indicators
 were mapped across Spartanburg County census tracts to identify 
 geographic concentrations of neighborhood disadvantage.
 
-[![Pillar 3 - Opportunity-Rich Neighborhoods](pillar-3-neighborhoods.png)](https://www.strategicspartanburg.org)
+[![Pillar 3 - Opportunity-Rich Neighborhoods](pillar-3-neighborhoods.png)](https://www.strategicspartanburg.org/upwardmobilitydashboard)
 
 *Click image to view live dashboard*
 
@@ -148,7 +148,7 @@ environmental quality, and safety from trauma. Indicators were
 analyzed across Spartanburg County to surface health disparities that 
 compound other barriers to upward mobility.
 
-[![Pillar 4 - Healthy Environment](pillar-4-health.png)](https://www.strategicspartanburg.org)
+[![Pillar 4 - Healthy Environment](pillar-4-health.png)](https://www.strategicspartanburg.org/upwardmobilitydashboard)
 
 *Click image to view live dashboard*
 
@@ -166,7 +166,7 @@ just policing. These indicators help community leaders assess whether
 local systems are working equitably for all residents or reinforcing 
 existing inequities.
 
-[![Pillar 5 - Responsive Governance](pillar-5-governance.png)](https://www.strategicspartanburg.org)
+[![Pillar 5 - Responsive Governance](pillar-5-governance.png)](https://www.strategicspartanburg.org/upwardmobilitydashboard)
 
 *Click image to view live dashboard*
 
