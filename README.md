@@ -51,36 +51,63 @@ by 2021.
 
 ## Project 2 — Economic Upward Mobility Dashboard
 
-Categorical dashboard addressing poverty indicators in Spartanburg 
-County using the Urban Institute's five-domain framework. Built to 
-help government partners and community organizations understand 
-barriers to economic mobility across the county.
+Categorical dashboard system addressing poverty and opportunity 
+indicators across Spartanburg County using the Urban Institute's 
+Upward Mobility Framework. The framework identifies five 
+interconnected pillars of community support — each measured through 
+specific predictors — that local leaders can influence to help more 
+residents reach long-term prosperity. Racial equity is embedded as 
+the foundational thread across all five pillars.
 
 ### Dashboard Views by Pillar
 
-**Pillar 1 — Rewarding Work**  
-Employment, wages, and economic opportunity indicators across 
-Spartanburg County.  
+### Pillar 1: Rewarding Work
+Rewarding work pays a living wage, provides dignified work conditions, 
+and offers economic security. This dashboard tracks five predictors 
+across Spartanburg County: employment opportunities, jobs paying 
+living wages, opportunities for income growth, financial security, 
+and wealth-building opportunities. Together these indicators reveal 
+whether residents can access the kind of work that builds lasting 
+economic stability rather than just short-term income.  
 [View PDF](Pillar%201%20Dahsboard.pdf)
 
-**Pillar 2 — High-Quality Education**  
-Educational attainment, school quality, and access to early childhood 
-education indicators.  
+### Pillar 2: High-Quality Education
+High-quality education from preschool through postsecondary is a 
+crucial avenue to economic and social mobility. This dashboard tracks 
+five predictors: access to preschool, effective public education, 
+school economic diversity, preparation for college, and digital 
+access. Education indicators in Spartanburg County were analyzed 
+through an equity lens to identify which communities face the steepest 
+barriers to educational opportunity.  
 [View PDF](Pillar%202%20Dashbaord%20.pdf)
 
-**Pillar 3 — Opportunity-Rich Neighborhoods**  
-Housing stability, neighborhood resources, and geographic access to 
-opportunity indicators.  
+### Pillar 3: Opportunity-Rich & Inclusive Neighborhoods
+The neighborhoods where people live shape their access to 
+opportunities, their families' stability, and their children's 
+long-term chances of success. This dashboard tracks six predictors: 
+housing affordability, housing stability, economic inclusion, racial 
+diversity, social capital, and transportation access. These indicators 
+were mapped across Spartanburg County census tracts to identify 
+geographic concentrations of neighborhood disadvantage.  
 [View PDF](Pillar%203%20Dashbaord%20.pdf)
 
-**Pillar 4 — Healthy Environment**  
-Health outcomes, healthcare access, and environmental quality 
-indicators across census tracts.  
+### Pillar 4: Healthy Environment & Access to Good Health Care
+Health shapes every dimension of a person's ability to succeed — in 
+school, at work, and in their community. This dashboard tracks four 
+predictors: access to health services, neonatal health outcomes, 
+environmental quality, and safety from trauma. Indicators were 
+analyzed across Spartanburg County to surface health disparities that 
+compound other barriers to upward mobility.  
 [View PDF](Pillar%204%20Dahsbaord.pdf)
 
-**Pillar 5 — Responsive Governance**  
-Civic engagement, government responsiveness, and public investment 
-indicators.  
+### Pillar 5: Responsive & Just Governance
+Governance that engages residents in decision-making and serves all 
+community members with fairness and restraint is foundational to 
+upward mobility. This dashboard tracks four predictors: political 
+participation, descriptive representation, safety from crime, and 
+just policing. These indicators help community leaders assess whether 
+local systems are working equitably for all residents or reinforcing 
+existing inequities.  
 [View PDF](Pillar%205%20Dashboard.pdf)
 
 ---
