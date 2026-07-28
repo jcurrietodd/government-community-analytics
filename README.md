@@ -14,6 +14,7 @@ presented directly to local government officials and used to inform
 resource allocation and policy decisions.
 
 ---
+
 ## Project 1: Food Security Dashboard
 
 Geospatial and statistical dashboards mapping food insecurity across 
@@ -25,7 +26,7 @@ making around food access disparities.
 
 ---
 
-### View 1 — Census Tract Level: Geospatial Map
+### View 1: Census Tract Level: Geospatial Map
 
 ArcGIS spatial analysis mapping food access indicators across census 
 tract boundaries. Interactive indicator selector and hover tooltips 
@@ -40,7 +41,7 @@ access population by tract.
 
 ---
 
-### View 2 — Municipality Level: Comparative Bar Chart
+### View 2: Municipality Level: Comparative Bar Chart
 
 Breaks food access indicators down by municipality across Spartanburg 
 County. Reidville showed the highest rate of low access children at 
@@ -54,7 +55,7 @@ County. Reidville showed the highest rate of low access children at
 
 ---
 
-### View 3 — County Level: Longitudinal Trend Analysis
+### View 3: County Level: Longitudinal Trend Analysis
 
 Tracks ten food security indicators over time including food insecurity 
 rate, child food insecurity rate, ALICE households, adult obesity rate, 
@@ -80,55 +81,95 @@ specific predictors — that local leaders can influence to help more
 residents reach long-term prosperity. Racial equity is embedded as 
 the foundational thread across all five pillars.
 
-### Dashboard Views by Pillar
+**► [View Framework](https://upward-mobility.urban.org/framework)**
+
+---
 
 ### Pillar 1: Rewarding Work
+
 Rewarding work pays a living wage, provides dignified work conditions, 
 and offers economic security. This dashboard tracks five predictors 
 across Spartanburg County: employment opportunities, jobs paying 
 living wages, opportunities for income growth, financial security, 
 and wealth-building opportunities. Together these indicators reveal 
 whether residents can access the kind of work that builds lasting 
-economic stability rather than just short-term income.  
+economic stability rather than just short-term income.
+
+[![Pillar 1 - Rewarding Work](pillar-1-rewarding-work.png)](https://www.strategicspartanburg.org)
+
+*Click image to view live dashboard*
+
 [View PDF](Pillar%201%20Dahsboard.pdf)
 
+---
+
 ### Pillar 2: High-Quality Education
+
 High-quality education from preschool through postsecondary is a 
 crucial avenue to economic and social mobility. This dashboard tracks 
 five predictors: access to preschool, effective public education, 
 school economic diversity, preparation for college, and digital 
 access. Education indicators in Spartanburg County were analyzed 
 through an equity lens to identify which communities face the steepest 
-barriers to educational opportunity.  
+barriers to educational opportunity.
+
+[![Pillar 2 - High-Quality Education](pillar-2-education.png)](https://www.strategicspartanburg.org)
+
+*Click image to view live dashboard*
+
 [View PDF](Pillar%202%20Dashbaord%20.pdf)
 
+---
+
 ### Pillar 3: Opportunity-Rich & Inclusive Neighborhoods
+
 The neighborhoods where people live shape their access to 
 opportunities, their families' stability, and their children's 
 long-term chances of success. This dashboard tracks six predictors: 
 housing affordability, housing stability, economic inclusion, racial 
 diversity, social capital, and transportation access. These indicators 
 were mapped across Spartanburg County census tracts to identify 
-geographic concentrations of neighborhood disadvantage.  
+geographic concentrations of neighborhood disadvantage.
+
+[![Pillar 3 - Opportunity-Rich Neighborhoods](pillar-3-neighborhoods.png)](https://www.strategicspartanburg.org)
+
+*Click image to view live dashboard*
+
 [View PDF](Pillar%203%20Dashbaord%20.pdf)
 
+---
+
 ### Pillar 4: Healthy Environment & Access to Good Health Care
+
 Health shapes every dimension of a person's ability to succeed — in 
 school, at work, and in their community. This dashboard tracks four 
 predictors: access to health services, neonatal health outcomes, 
 environmental quality, and safety from trauma. Indicators were 
 analyzed across Spartanburg County to surface health disparities that 
-compound other barriers to upward mobility.  
+compound other barriers to upward mobility.
+
+[![Pillar 4 - Healthy Environment](pillar-4-health.png)](https://www.strategicspartanburg.org)
+
+*Click image to view live dashboard*
+
 [View PDF](Pillar%204%20Dahsbaord.pdf)
 
+---
+
 ### Pillar 5: Responsive & Just Governance
+
 Governance that engages residents in decision-making and serves all 
 community members with fairness and restraint is foundational to 
 upward mobility. This dashboard tracks four predictors: political 
 participation, descriptive representation, safety from crime, and 
 just policing. These indicators help community leaders assess whether 
 local systems are working equitably for all residents or reinforcing 
-existing inequities.  
+existing inequities.
+
+[![Pillar 5 - Responsive Governance](pillar-5-governance.png)](https://www.strategicspartanburg.org)
+
+*Click image to view live dashboard*
+
 [View PDF](Pillar%205%20Dashboard.pdf)
 
 ---
@@ -147,6 +188,15 @@ Longitudinal Data Analysis · Interactive Dashboard Design ·
 Census Data · Stakeholder Communication · Policy Analysis
 
 ## Impact
-Findings were presented directly to local government officials and serves as evidence to ensure the campaign of growth in the city was allocating resources correctly. The work done in community analytics served to curb risks in wealth distribution and new government revenue coming from industry moving to Spartanburg county would serve more than those working for the companies or owners of land/plants. Spartanburg county is consistently pulling a third of GDP for the state regardless of only representing 10% of the population. 
-community partners and used to inform resource allocation and food 
-access policy decisions across Spartanburg County.
+Findings were presented directly to local government officials and 
+serves as evidence to ensure the campaign of growth in the city was 
+allocating resources correctly. The work done in community analytics 
+served to curb risks in wealth distribution and new government revenue 
+coming from industry moving to Spartanburg County would serve more 
+than those working for the companies or owners of land/plants. 
+Spartanburg County is consistently pulling a third of GDP for the 
+state regardless of only representing 10% of the population. These 
+summer projects contributed to the beginning of my journey in 
+Spartanburg County, learning the functions of funded research through 
+larger entities such as the conglomerate OneSpartanburg Inc. 
+(county-wide chamber of commerce).
