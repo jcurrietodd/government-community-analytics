@@ -91,7 +91,7 @@ indicators.
 - Feeding America
 - ALICE Research Center
 - Urban Institute Upward Mobility Framework
-- Municipal datasets — Spartanburg County
+- Municipal datasets: Spartanburg County
 
 ## Skills Demonstrated
 R · Tableau · ArcGIS · SQL · Excel · Geospatial Analysis · 
@@ -99,6 +99,6 @@ Longitudinal Data Analysis · Interactive Dashboard Design ·
 Census Data · Stakeholder Communication · Policy Analysis
 
 ## Impact
-Findings were presented directly to local government officials and 
+Findings were presented directly to local government officials and serves as evidence to ensure the campaign of growth in the city was allocating resources correctly. The work done in community analytics served to curb risks in wealth distribution and new government revenue coming from industry moving to Spartanburg county would serve more than those working for the companies or owners of land/plants. Spartanburg county is consistently pulling a third of GDP for the state regardless of only representing 10% of the population. 
 community partners and used to inform resource allocation and food 
 access policy decisions across Spartanburg County.
