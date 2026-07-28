@@ -43,6 +43,10 @@ County. Reidville showed the highest rate of low access children at
 26.99% while Woodruff showed the lowest at 8.41%.  
 [View PDF](Municipality%20Dashboard.pdf)
 
+[![Upward Mobility Dashboard](Screenshot%202026-07-27%20180020.png)](https://www.strategicspartanburg.org)
+
+*Click image to view live dashboard*
+
 **County Level: Longitudinal Trend Analysis**  
 Tracks ten food security indicators over time including food insecurity 
 rate, child food insecurity rate, ALICE households, adult obesity rate, 
@@ -62,10 +66,6 @@ interconnected pillars of community support — each measured through
 specific predictors — that local leaders can influence to help more 
 residents reach long-term prosperity. Racial equity is embedded as 
 the foundational thread across all five pillars.
-
-[![Upward Mobility Dashboard](Screenshot%202026-07-27%20180020.png)](https://www.strategicspartanburg.org)
-
-*Click image to view live dashboard*
 
 ### Dashboard Views by Pillar
 
