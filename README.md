@@ -62,7 +62,7 @@ and meal cost. Population grew from roughly 260,000 in 2014 to over
 320,000 by 2020 while meal costs rose from $2.74 in 2015 to $3.41 
 by 2021.
 
-[![County Dashboard](Screenshot 2026-07-28 132943_county.png)](https://www.strategicspartanburg.org/foodsecuritydashboard)
+[![County Dashboard](Screenshot%202026-07-28%20132943_county.png)](https://www.strategicspartanburg.org/foodsecuritydashboard)
 
 *Click image to view live dashboard*
 
