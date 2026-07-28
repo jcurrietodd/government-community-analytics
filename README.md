@@ -14,7 +14,6 @@ presented directly to local government officials and used to inform
 resource allocation and policy decisions.
 
 ---
-
 ## Project 1: Food Security Dashboard
 
 Geospatial and statistical dashboards mapping food insecurity across 
@@ -22,42 +21,52 @@ Spartanburg County at three geographic levels using census tract,
 municipal, and county data. Built to support data-driven decision 
 making around food access disparities.
 
-**Live Dashboard:** [View on Strategic Spartanburg](https://www.strategicspartanburg.org/foodsecuritydashboard)
+**► [View Live Dashboard](https://www.strategicspartanburg.org/foodsecuritydashboard)**
 
-### Dashboard Views
+---
 
-**Census Tract Level: Geospatial Map**  
+### View 1 — Census Tract Level: Geospatial Map
+
 ArcGIS spatial analysis mapping food access indicators across census 
 tract boundaries. Interactive indicator selector and hover tooltips 
 show poverty rate, median family income, SNAP enrollment, and low 
-access population by tract.  
+access population by tract.
+
+[![Census Tract Dashboard](Screenshot%202026-07-27%20175858.png)](https://www.strategicspartanburg.org/foodsecuritydashboard)
+
+*Click image to view live dashboard*
+
 [View PDF](Census%20Track%20Dashboard.pdf)
 
-[![Food Security Dashboard](Screenshot%202026-07-27%20175858.png)](https://www.strategicspartanburg.org/foodsecuritydashboard)
+---
 
-*Click image to view live dashboard*
+### View 2 — Municipality Level: Comparative Bar Chart
 
-**Municipality Level: Comparative Bar Chart**  
 Breaks food access indicators down by municipality across Spartanburg 
 County. Reidville showed the highest rate of low access children at 
-26.99% while Woodruff showed the lowest at 8.41%.  
-[View PDF](Municipality%20Dashboard.pdf)
+26.99% while Woodruff showed the lowest at 8.41%.
 
-[![Upward Mobility Dashboard](Screenshot%202026-07-27%20180020.png)](https://www.strategicspartanburg.org)
+[![Municipality Dashboard](Screenshot%202026-07-27%20180020.png)](https://www.strategicspartanburg.org/foodsecuritydashboard)
 
 *Click image to view live dashboard*
 
-**County Level: Longitudinal Trend Analysis**  
+[View PDF](Municipality%20Dashboard.pdf)
+
+---
+
+### View 3 — County Level: Longitudinal Trend Analysis
+
 Tracks ten food security indicators over time including food insecurity 
 rate, child food insecurity rate, ALICE households, adult obesity rate, 
 and meal cost. Population grew from roughly 260,000 in 2014 to over 
 320,000 by 2020 while meal costs rose from $2.74 in 2015 to $3.41 
-by 2021.  
-[View PDF](County%20Dashboard.pdf)
+by 2021.
 
-[![Food Security Dashboard](Screenshot 2026-07-28 132943_county)](https://www.strategicspartanburg.org/foodsecuritydashboard)
+[![County Dashboard](Screenshot%202026-07-28%20132943.png)](https://www.strategicspartanburg.org/foodsecuritydashboard)
 
 *Click image to view live dashboard*
+
+[View PDF](County%20Dashboard.pdf)
 
 ---
 
