@@ -1,4 +1,14 @@
-# Government & Community Analytics
+<div align="center">
+
+# 🗺️ Government & Community Analytics
+### Strategic Spartanburg · Spartanburg, SC · 2024–2025
+
+</div>
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Tools:** R · Tableau · ArcGIS · SQL · Excel  
 **Organization:** Strategic Spartanburg, Spartanburg, SC  
@@ -13,9 +23,13 @@ economic mobility across Spartanburg County, SC. Findings were
 presented directly to local government officials and used to inform 
 resource allocation and policy decisions.
 
+| Dashboards Built | Geographic Levels | Indicators Tracked | Stakeholders Reached |
+|:---:|:---:|:---:|:---:|
+| 8 | 3 | 24 | Government + Community Partners |
+
 ---
 
-## Project 1: Food Security Dashboard
+## 📍 Project 1: Food Security Dashboard
 
 Geospatial and statistical dashboards mapping food insecurity across 
 Spartanburg County at three geographic levels using census tract, 
@@ -71,7 +85,7 @@ by 2021.
 
 ---
 
-## Project 2: Economic Upward Mobility Dashboard
+## 📊 Project 2: Economic Upward Mobility Dashboard
 
 Categorical dashboard system addressing poverty and opportunity 
 indicators across Spartanburg County using the Urban Institute's 
