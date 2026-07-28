@@ -22,10 +22,6 @@ Spartanburg County at three geographic levels using census tract,
 municipal, and county data. Built to support data-driven decision 
 making around food access disparities.
 
-[![Food Security Dashboard](Screenshot%202026-07-27%20175858.png)](https://www.strategicspartanburg.org/foodsecuritydashboard)
-
-*Click image to view live dashboard*
-
 **Live Dashboard:** [View on Strategic Spartanburg](https://www.strategicspartanburg.org/foodsecuritydashboard)
 
 ### Dashboard Views
@@ -36,6 +32,10 @@ tract boundaries. Interactive indicator selector and hover tooltips
 show poverty rate, median family income, SNAP enrollment, and low 
 access population by tract.  
 [View PDF](Census%20Track%20Dashboard.pdf)
+
+[![Food Security Dashboard](Screenshot%202026-07-27%20175858.png)](https://www.strategicspartanburg.org/foodsecuritydashboard)
+
+*Click image to view live dashboard*
 
 **Municipality Level: Comparative Bar Chart**  
 Breaks food access indicators down by municipality across Spartanburg 
@@ -54,6 +54,10 @@ and meal cost. Population grew from roughly 260,000 in 2014 to over
 320,000 by 2020 while meal costs rose from $2.74 in 2015 to $3.41 
 by 2021.  
 [View PDF](County%20Dashboard.pdf)
+
+[![Food Security Dashboard](Screenshot 2026-07-28 132943_county)](https://www.strategicspartanburg.org/foodsecuritydashboard)
+
+*Click image to view live dashboard*
 
 ---
 
