@@ -15,7 +15,7 @@ resource allocation and policy decisions.
 
 ---
 
-## Project 1 — Food Security Dashboard
+## Project 1: Food Security Dashboard
 
 Geospatial and statistical dashboards mapping food insecurity across 
 Spartanburg County at three geographic levels using census tract, 
@@ -26,20 +26,20 @@ making around food access disparities.
 
 ### Dashboard Views
 
-**Census Tract Level — Geospatial Map**  
+**Census Tract Level: Geospatial Map**  
 ArcGIS spatial analysis mapping food access indicators across census 
 tract boundaries. Interactive indicator selector and hover tooltips 
 show poverty rate, median family income, SNAP enrollment, and low 
 access population by tract.  
 [View PDF](Census%20Track%20Dashboard.pdf)
 
-**Municipality Level — Comparative Bar Chart**  
+**Municipality Level: Comparative Bar Chart**  
 Breaks food access indicators down by municipality across Spartanburg 
 County. Reidville showed the highest rate of low access children at 
 26.99% while Woodruff showed the lowest at 8.41%.  
 [View PDF](Municipality%20Dashboard.pdf)
 
-**County Level — Longitudinal Trend Analysis**  
+**County Level: Longitudinal Trend Analysis**  
 Tracks ten food security indicators over time including food insecurity 
 rate, child food insecurity rate, ALICE households, adult obesity rate, 
 and meal cost. Population grew from roughly 260,000 in 2014 to over 
@@ -49,7 +49,7 @@ by 2021.
 
 ---
 
-## Project 2 — Economic Upward Mobility Dashboard
+## Project 2: Economic Upward Mobility Dashboard
 
 Categorical dashboard system addressing poverty and opportunity 
 indicators across Spartanburg County using the Urban Institute's 
