@@ -22,6 +22,10 @@ Spartanburg County at three geographic levels using census tract,
 municipal, and county data. Built to support data-driven decision 
 making around food access disparities.
 
+[![Food Security Dashboard](Screenshot%202026-07-27%20175858.png)](https://www.strategicspartanburg.org/foodsecuritydashboard)
+
+*Click image to view live dashboard*
+
 **Live Dashboard:** [View on Strategic Spartanburg](https://www.strategicspartanburg.org/foodsecuritydashboard)
 
 ### Dashboard Views
@@ -58,6 +62,10 @@ interconnected pillars of community support — each measured through
 specific predictors — that local leaders can influence to help more 
 residents reach long-term prosperity. Racial equity is embedded as 
 the foundational thread across all five pillars.
+
+[![Upward Mobility Dashboard](Screenshot%202026-07-27%20180020.png)](https://www.strategicspartanburg.org)
+
+*Click image to view live dashboard*
 
 ### Dashboard Views by Pillar
 
